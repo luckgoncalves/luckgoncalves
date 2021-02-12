@@ -1,4 +1,4 @@
-# <a href="https://lucasgoncalves.dev">Lucas Gonçalves</a>
+# <a href="https://lucasgoncalves.dev" target="_blank">Lucas Gonçalves</a>
 
 Desenvolvedor @oystr.com.br.
 
