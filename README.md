@@ -4,7 +4,7 @@ Desenvolvedor @oystr.com.br.
 
 ## Sobre
 Desenvolvedor Full Stack, 
-Formado em Tecnologia da Gestão da Tecnologia da informação em Santa Cruz.
+Formado em Tecnologia da Gestão da Tecnologia da Informação em Santa Cruz.
 Pós Graduado em App Development em Puc-PR.
 
 ## Tecnologias
