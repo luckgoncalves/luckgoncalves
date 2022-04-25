@@ -1,6 +1,6 @@
 # <a href="https://lucasgoncalves.dev" target="_blank">Lucas Gonçalves</a>
 
-Desenvolvedor @oystr.com.br.
+Desenvolvedor @queimadiaria.
 
 ## Sobre
 Desenvolvedor Full Stack, 
