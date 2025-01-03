@@ -1,6 +1,6 @@
 # <a href="https://lucasgoncalves.dev" target="_blank">Lucas Gonçalves</a>
 
-Desenvolvedor @queimadiaria.
+Teach Lead @acordofechado.
 
 ## Sobre
 Desenvolvedor Full Stack, 
@@ -8,15 +8,15 @@ Formado em Tecnologia da Gestão da Tecnologia da Informação em Santa Cruz.
 Pós Graduado em App Development em Puc-PR.
 
 ## Tecnologias
-- Front - End com HTML, CSS, JS, ReactJS
-- Wordpress
+- ReactJS
+- NextJS
+- NodeJS
+- Postgres
+- Mysql
+- Docker
+- GCloud
+- TS
 
-- PHP
-- NODE JS
-
-- MYSQL
-- SQL SERVER
-- POSTGRES
 
 **Linguagens e Ferramentas:**  
 
