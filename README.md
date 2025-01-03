@@ -1,13 +1,13 @@
 # <a href="https://lucasgoncalves.dev" target="_blank">Lucas Gonçalves</a>
 
-Teach Lead @acordofechado.
+Teach Lead at @acordofechado.
 
-## Sobre
-Desenvolvedor Full Stack, 
-Formado em Tecnologia da Gestão da Tecnologia da Informação em Santa Cruz.
-Pós Graduado em App Development em Puc-PR.
+## About
+Full Stack developer, 
+Graduated in Information Technology Management at Santa Cruz.
+Postgraduate in App Development at Puc-PR.
 
-## Tecnologias
+## Technology
 - ReactJS
 - NextJS
 - NodeJS
@@ -18,7 +18,7 @@ Pós Graduado em App Development em Puc-PR.
 - TS
 
 
-**Linguagens e Ferramentas:**  
+**Languages and tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
